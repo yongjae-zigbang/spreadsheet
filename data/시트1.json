@@ -1,0 +1,128 @@
+[
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "#enum:BattleState",
+    "",
+    "",
+    "",
+    "#table:StageDescText",
+    "",
+    ""
+  ],
+  [
+    "정의",
+    "값",
+    "설명",
+    "",
+    "index",
+    "text_en",
+    "text_kr"
+  ],
+  [
+    "Idle",
+    101,
+    "대기",
+    "",
+    "int",
+    "string",
+    "string"
+  ],
+  [
+    "Move",
+    102,
+    "이동",
+    "",
+    "CS",
+    "CS",
+    "CS"
+  ],
+  [
+    "Attack",
+    103,
+    "공격",
+    "",
+    1040,
+    "Local Dungeon\\nPharaoh cards are available.",
+    "지역 던전 파라오 카드를 입수할 수 있다."
+  ],
+  [
+    "Skill",
+    111,
+    "스킬",
+    "",
+    1041,
+    "Local Dungeon\\nAmon Ra cards are available.",
+    "지연 던전 아론 라의 카드를 입수할 수 있다."
+  ],
+  [
+    "Cast",
+    112,
+    "캐스팅",
+    "",
+    1042,
+    "Drops Lots Of gold.",
+    "골드를 대량 수급할 수 있는 던전."
+  ],
+  [
+    "Dead",
+    199,
+    "사망",
+    "",
+    1043,
+    "Soul Stone was found here.",
+    "소울스톤을 입수할 수 있는 던전."
+  ],
+  [
+    "Hit",
+    201,
+    "피격",
+    "",
+    1044,
+    "Ancient monster",
+    "고대의 몬스터가 증식하는 던전."
+  ],
+  [
+    "Stun",
+    202,
+    "기절",
+    "",
+    104010101,
+    "Morroc north desert",
+    "모로코 북쪽 사막"
+  ],
+  [
+    "Knockback",
+    203,
+    "밀려남",
+    "",
+    104010201,
+    "Sphinx basement",
+    "스핑크스 지하 3층"
+  ],
+  [
+    "Poison",
+    301,
+    "중독",
+    "",
+    "",
+    "",
+    ""
+  ]
+]
